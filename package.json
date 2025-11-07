@@ -9,7 +9,7 @@
     "dev":"nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kranthi Kumar",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
